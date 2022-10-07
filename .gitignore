@@ -27,4 +27,8 @@ hs_err_pid*
 .classpath
 .project
 .gitignore
+<<<<<<< HEAD
 .settings/
+=======
+.settings/
+>>>>>>> branch 'master' of https://github.com/yejin013/algorithm.git
