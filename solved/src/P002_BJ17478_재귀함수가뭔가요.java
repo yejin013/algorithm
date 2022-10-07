@@ -1,7 +1,6 @@
-
-
 import java.util.Scanner;
 
+// dfs
 public class P002_BJ17478_재귀함수가뭔가요 {
 
 	static int count;

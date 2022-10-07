@@ -1,9 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class A04_BJ14503_로봇_청소기 {
+public class A004_BJ14503_로봇_청소기 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

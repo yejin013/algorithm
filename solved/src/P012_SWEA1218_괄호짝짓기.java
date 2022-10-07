@@ -1,9 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
+// 스택
 public class P012_SWEA1218_괄호짝짓기 {
 
 	static int N; // 입력받은 문자 개수 

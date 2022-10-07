@@ -1,9 +1,8 @@
-
-
 import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.Scanner;
 
+// 큐
 // ArrayList보다 ArrayDeque가 더 빠름 - ArrayList를 쓰면 시간 초과, ArrayDeque를 쓰면 정답 
 public class P019_BJ1158_요세푸스문제 {
 

@@ -1,10 +1,9 @@
-
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+// 기초 문제
 public class P001_SWEA1289_원재의메모리복구하기 {
 	
 	public static void main(String[] args) throws NumberFormatException, IOException {

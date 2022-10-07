@@ -1,7 +1,6 @@
-
-
 import java.util.Scanner;
 
+// dfs
 public class P023_SWEA1861_정사각형방 {
 
 	static int[][] room;

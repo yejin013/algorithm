@@ -1,8 +1,6 @@
-
-
 import java.util.Scanner;
 
-public class A02_SWEA6485_삼성시의_버스_노선 {
+public class A002_SWEA6485_삼성시의_버스_노선 {
 
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(System.in);

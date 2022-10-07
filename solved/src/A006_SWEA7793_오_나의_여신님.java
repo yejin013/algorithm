@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 
 // bfs인데, 한 depth만 돌기! 
-public class A002_SWEA7793_오_나의_여신님 {
+public class A006_SWEA7793_오_나의_여신님 {
 
 	static int answer;
 	static char[][] arr;

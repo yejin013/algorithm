@@ -1,9 +1,8 @@
-
-
 import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Scanner;
 
+// 큐
 public class P014_BJ2164_카드2 {
 
 	public static void main(String[] args) {

@@ -1,7 +1,6 @@
-
-
 import java.util.Scanner;
 
+// 배열
 public class P024_BJ2563_색종이 {
 
 	public static void main(String[] args) {

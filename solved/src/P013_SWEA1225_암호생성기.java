@@ -1,11 +1,10 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Deque;
 
+// 큐
 public class P013_SWEA1225_암호생성기 {
 
 	public static void main(String[] args) throws Exception {

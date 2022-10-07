@@ -1,9 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+// 기초 문제
 public class P011_SWEA2001_파리퇴치 {
 
 	public static void main(String[] args) throws Exception {

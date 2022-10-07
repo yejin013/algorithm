@@ -1,8 +1,6 @@
-
-
 import java.util.Scanner;
 
-public class A03_BJ16463_13일의_금요일 {
+public class A003_BJ16463_13일의_금요일 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in); // 입력 위함 

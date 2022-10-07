@@ -1,10 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 // 아직 푸는 중 - dfs
-public class A01_PRG_타겟넘버 {
+public class A001_PRG_타겟넘버 {
 
 	static int[] numbers;
 	static int target;
@@ -12,8 +10,8 @@ public class A01_PRG_타겟넘버 {
 	static int answer;
 	
     public static int solution(int[] numbers, int target) {      
-        A01_PRG_타겟넘버.numbers = numbers;
-        A01_PRG_타겟넘버.target = target;
+        A001_PRG_타겟넘버.numbers = numbers;
+        A001_PRG_타겟넘버.target = target;
         dfs(-1);
         
         return answer;

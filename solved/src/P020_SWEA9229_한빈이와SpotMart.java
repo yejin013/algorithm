@@ -1,7 +1,6 @@
-
-
 import java.util.Scanner;
 
+// 기초 문제
 public class P020_SWEA9229_한빈이와SpotMart {
 
 	public static void main(String[] args) throws Exception {

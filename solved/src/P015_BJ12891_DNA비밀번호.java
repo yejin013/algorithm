@@ -1,9 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-// 시간초과...
+// 기초 문제
 public class P015_BJ12891_DNA비밀번호 {
 	
 	public static void main(String[] args) throws Exception {

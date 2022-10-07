@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 순열
 public class P022_SWEA6808_규영이와인영이의카드게임 {
 	
 	static int win;

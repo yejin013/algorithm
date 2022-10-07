@@ -1,9 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// 기초 문제
 public class P003_BJ1244_스위치켜고끄기 {
 
 	public static void main(String[] args) throws Exception {

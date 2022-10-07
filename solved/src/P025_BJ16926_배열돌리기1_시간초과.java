@@ -1,11 +1,8 @@
-
-
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
+// 
 public class P025_BJ16926_배열돌리기1_시간초과 {
 
 	static final char[]dir= {'우', '하', '좌', '상'};

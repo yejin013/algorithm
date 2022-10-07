@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 구현
 public class P008_SWEA1873_상호의배틀필드 {
 
 	public static void main(String[] args) throws Exception {

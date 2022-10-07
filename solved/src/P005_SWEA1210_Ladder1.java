@@ -1,9 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+// 구현
 public class P005_SWEA1210_Ladder1 {
 	
 	static int[][] arr = new int[100][]; // 100 * 100 배열 

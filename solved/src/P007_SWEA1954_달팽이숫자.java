@@ -1,9 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+// 구현
 public class P007_SWEA1954_달팽이숫자 {
 
 	public static void main(String[] args) throws Exception {

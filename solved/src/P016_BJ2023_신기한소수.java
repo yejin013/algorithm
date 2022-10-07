@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// dfs
 public class P016_BJ2023_신기한소수 {
 
 	static StringBuilder sb = new StringBuilder(); // 출력하기 위함 

@@ -1,9 +1,8 @@
-
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// 리스트
 public class P018_SWEA1228_암호문1 {
 
 	public static void main(String[] args) throws Exception {

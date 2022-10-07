@@ -1,9 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+// 기초 문제
 public class P006_SWEA2805_농작물수확하기 {
 
 	public static void main(String[] args) throws Exception {
