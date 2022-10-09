@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 조합
 public class P034_SWEA4012_요리사 {
 
 	static int N;

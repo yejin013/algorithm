@@ -1,7 +1,6 @@
-
-
 import java.util.Scanner;
 
+// 기초문제
 public class P035_BJ2839_설탕배달 {
 
 	public static void main(String[] args) {

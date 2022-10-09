@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// dfs
 public class P042_BJ3109_빵집 {
 
 	static int[] dx = {-1, 0, 1}; // 오른쪽 위 대각선, 오른쪽, 오른쪽 아래 대각선 

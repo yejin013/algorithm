@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 순열
 public class P043_SWEA1247_최적경로 {
 
 	static int[] house;

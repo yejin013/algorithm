@@ -1,9 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+// 서로소 집합
 public class P052_SWEA3124_최소스패닝트리 {
 
 	static int[] parents;

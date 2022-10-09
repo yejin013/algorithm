@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 분할정복
 public class P041_BJ1992_쿼드트리 {
 
 	static int[][] QT;

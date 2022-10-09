@@ -1,7 +1,6 @@
-
-
 import java.util.*;
 
+// 정렬
 public class P037_JO1828_냉장고 {
 
 	public static void main(String[] args) {

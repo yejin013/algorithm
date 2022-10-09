@@ -1,10 +1,9 @@
-
-
 import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Queue;
 import java.util.Scanner;
 
+// bfs, dfs
 public class P045_BJ1260_DFS와BFS {
 
 	static int N, M;

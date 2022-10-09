@@ -1,7 +1,6 @@
-
-
 import java.util.Scanner;
 
+// 서로소 집합
 public class P051_SWEA3289_서로소집합 {
 
 	static int n;

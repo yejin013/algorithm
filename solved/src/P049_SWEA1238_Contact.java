@@ -1,10 +1,10 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Queue;
 import java.util.ArrayDeque;
 
+
+// bfs
 public class P049_SWEA1238_Contact {
 
 	static int[][] graph;

@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 완전탐색
 public class P062_BJ17144_미세먼지안녕 {
 
 	static int R, C;

@@ -1,7 +1,6 @@
-
-
 import java.util.Scanner;
 
+// 분할정복
 public class P036_BJ1074_Z {
 
 	public static void main(String[] args) {

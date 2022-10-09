@@ -1,10 +1,9 @@
-
-
 import java.util.List;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+// 조합
 public class P032_BJ15686치킨배달 {
 	
 	static int M;

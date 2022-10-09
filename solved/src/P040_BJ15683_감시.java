@@ -1,9 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+// dfs
 public class P040_BJ15683_감시 {
 
 	static int answer;

@@ -1,9 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+// 구현
 public class P063_SWEA_4013_특이한자석 {
 	
 	static int[][] magnet;

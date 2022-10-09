@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 서로소 집합
 public class P053_SWEA7465_창용마을무리의개수 {
 
 	static int N;

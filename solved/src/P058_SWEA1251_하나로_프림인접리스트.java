@@ -1,5 +1,3 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
@@ -7,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.PriorityQueue;
 
+// PRIM
 public class P058_SWEA1251_하나로_프림인접리스트 {
 
 	static class Vertex implements Comparable<Vertex> {

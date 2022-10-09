@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// dfs
 public class P057_BJ10026_적록색약 {
 
 	static char[][] part;

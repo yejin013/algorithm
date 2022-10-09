@@ -1,9 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 
+// 기초 문제
 public class P039_BJ1541_잃어버린괄호 {
 
 	public static void main(String[] args) throws Exception {

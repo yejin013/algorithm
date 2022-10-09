@@ -1,10 +1,9 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
+// PRIM
 public class P059_SWEA1251_하나로_프림인접행렬 {
 	
 	static class Vertex implements Comparable<Vertex> {

@@ -1,9 +1,8 @@
-
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// 누적합
 public class P031_BJ3040_백설공주와일곱난쟁이 {
 	
 	static List<Integer> function(int sum, List<Integer> arr) {

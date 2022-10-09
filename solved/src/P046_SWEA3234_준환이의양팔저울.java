@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 순열
 public class P046_SWEA3234_준환이의양팔저울 {
 
 	static int[] weight;

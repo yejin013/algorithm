@@ -1,10 +1,9 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
+// PRIM
 public class P058_SWEA1251_하나로_프림인접리스트2 {
 
 	static class Node {

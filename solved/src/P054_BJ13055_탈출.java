@@ -1,10 +1,10 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
+
+// bfs
 public class P054_BJ13055_탈출 {
 
 	static int answer;

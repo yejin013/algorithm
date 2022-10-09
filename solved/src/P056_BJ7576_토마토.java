@@ -1,10 +1,9 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
+// bfs
 public class P056_BJ7576_토마토 {
 
 	static int N, M, day;

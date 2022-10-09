@@ -1,9 +1,9 @@
-
-
 import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.Scanner;
 
+
+// bfs
 public class P048_BJ1697_숨바꼭질 {
 
 	static int K;

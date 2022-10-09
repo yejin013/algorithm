@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 순열
 public class P044_BJ1987_알파벳 {
 
 	static int[] dx = {-1, 1, 0, 0}; // 상 하 좌 우 

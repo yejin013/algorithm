@@ -1,11 +1,10 @@
-
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
+// 우선순위 큐
 public class P038_SWEA5644_무선충전 {
 	public static class BC implements Comparable<BC> {
 		int x, y;

@@ -1,12 +1,10 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Queue;
 
+// 순열, bfs
 public class P047_BJ17135_캐슬디펜스 {
 
 	static int max;
@@ -81,9 +79,7 @@ public class P047_BJ17135_캐슬디펜스 {
 	}
 
 	// cnt + 1번째 해당하는 조합에 포함될 수를 뽑기
-	private static void find(int cnt, int start) { // cnt: 직전까지 뽑은 조합에 포함된 수의 개수, start: 시도할 수의 시작 위치 (반복을 돌 때 시작 위치만
-													// 정함)
-
+	private static void find(int cnt, int start) { // cnt: 직전까지 뽑은 조합에 포함된 수의 개수, start: 시도할 수의 시작 위치 (반복을 돌 때 시작 위치만 정함)
 		if (cnt == 3) {
 			// 적 죽이기
 			attack();
