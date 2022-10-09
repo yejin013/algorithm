@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-// 기초 문제
+// 누적합
 public class P009_BJ11659_구간합구하기4 {
 
 	public static void main(String[] args) throws Exception {

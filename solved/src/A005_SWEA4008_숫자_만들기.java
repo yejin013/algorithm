@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 // 순열
-public class A005_SWEA_숫자_만들기 {
+public class A005_SWEA4008_숫자_만들기 {
 
 	static int N, totalCnt;
 	static int[] operations;

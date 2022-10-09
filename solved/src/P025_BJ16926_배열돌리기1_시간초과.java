@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 
-// 
+// 구현
 public class P025_BJ16926_배열돌리기1_시간초과 {
 
 	static final char[]dir= {'우', '하', '좌', '상'};

@@ -1,7 +1,6 @@
-
-
 import java.util.Scanner;
 
+// dfs
 public class P029_SWEA5215_햄버거다이어트 {
 
 	static int N;

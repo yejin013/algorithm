@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// dynamic programming
 public class P027_BJ1010_다리놓기 {
 	
 	public static void main(String[] args) throws Exception {

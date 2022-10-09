@@ -1,7 +1,6 @@
-
-
 import java.util.Scanner;
 
+// dfs
 public class P030_BJ2961_도영이가만든맛있는음식 {
 
 	static int N;

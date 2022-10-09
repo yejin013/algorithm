@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 완전탐색 
 public class A003_BJ16463_13일의_금요일 {
 
 	public static void main(String[] args) {

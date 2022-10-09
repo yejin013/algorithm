@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 순열
 public class P028_BJ17406_배열돌리기4 {
 
 	static int K;

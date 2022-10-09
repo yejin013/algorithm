@@ -1,8 +1,7 @@
-
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// 구현
 public class P026_BJ16935_배열돌리기3 {
 
 	public static void main(String[] args) throws Exception {
