@@ -2,42 +2,42 @@
 
 ## 기초 문제
 알고리즘을 사용하지 않고 기본적인 자료구조를 통해 구현한 문제 (스택, 큐, 리스트 포함)
-|문제 출처|문제 번호|제목|
+|번호|문제 출처|제목|
 |---|---|---|
-|SWEA|1289|[원재의 메모리 복구하기](solved/src/P001_SWEA1289_원재의메모리복구하기.java)|
-|백준|1244|[스위치 켜고 끄기](solved/src/P003_BJ1244_스위치켜고끄기.java)|
-|SWEA|1208|[Flatten](solved/src/P004_SWEA1208_Flatten.java)|
-|SWEA|2805|[농작물 수확하기](solved/src/P006_SWEA2805_농작물수확하기.java)|
-|SWEA|2001|[파리퇴치](solved/src/P011_SWEA2001_파리퇴치.java)|
-|SWEA|1218|[괄호짝짓기](solved/src/P012_SWEA1218_괄호짝짓기.java)|
-|SWEA|1225|[암호생성기](solved/src/P013_SWEA1225_암호생성기.java)|
-|백준|2164|[카드2](solved/src/P014_BJ2164_카드2.java)|
-|백준|12891|[DNA비밀번호](solved/src/P015_BJ12891_DNA비밀번호.java)|
-|백준|2493|[탑](solved/src/P017_BJ2493_탑.java)|
-|SWEA|1228|[암호문1](solved/src/P018_SWEA1228_암호문1.java)|
-|백준|1158|[요세푸스문제](solved/src/P019_BJ1158_요세푸스문제.java)|
-|SWEA|9229|[한빈이와 Spot Mart](solved/src/P020_SWEA9229_한빈이와SpotMart.java)|
-|SWEA|1233|[사칙연산 유효성 검사](solved/src/P021_SWEA1233_사칙연산유효성검사.java)|
-|백준|2563|[색종이](solved/src/P024_BJ2563_색종이.java)|
-|백준|2839|[설탕 배달](solved/src/P035_BJ2839_설탕배달.java)|
-|백준|1541|[잃어버린 괄호](solved/src/P039_BJ1541_잃어버린괄호.java)|
+|1|SWEA|[원재의 메모리 복구하기](solved/src/P001_SWEA1289_원재의메모리복구하기.java)|
+|2|백준|[스위치 켜고 끄기](solved/src/P003_BJ1244_스위치켜고끄기.java)|
+|3|SWEA|[Flatten](solved/src/P004_SWEA1208_Flatten.java)|
+|4|SWEA|[농작물 수확하기](solved/src/P006_SWEA2805_농작물수확하기.java)|
+|5|SWEA|[파리퇴치](solved/src/P011_SWEA2001_파리퇴치.java)|
+|6|SWEA|[괄호짝짓기](solved/src/P012_SWEA1218_괄호짝짓기.java)|
+|7|SWEA|[암호생성기](solved/src/P013_SWEA1225_암호생성기.java)|
+|8|백준|[카드2](solved/src/P014_BJ2164_카드2.java)|
+|9|백준|[DNA비밀번호](solved/src/P015_BJ12891_DNA비밀번호.java)|
+|10|백준|[탑](solved/src/P017_BJ2493_탑.java)|
+|11|SWEA|[암호문1](solved/src/P018_SWEA1228_암호문1.java)|
+|12|백준|[요세푸스문제](solved/src/P019_BJ1158_요세푸스문제.java)|
+|13|SWEA|[한빈이와 Spot Mart](solved/src/P020_SWEA9229_한빈이와SpotMart.java)|
+|14|SWEA|[사칙연산 유효성 검사](solved/src/P021_SWEA1233_사칙연산유효성검사.java)|
+|15|백준|[색종이](solved/src/P024_BJ2563_색종이.java)|
+|16|백준|[설탕 배달](solved/src/P035_BJ2839_설탕배달.java)|
+|17|백준|[잃어버린 괄호](solved/src/P039_BJ1541_잃어버린괄호.java)|
 
 ## 누적합
-|문제 출처|문제 번호|제목|
+|번호|문제 출처|제목|
 |---|---|---|
-|백준|11659|[구간합구하기4](solved/src/P009_BJ11659_구간합구하기4.java)|
-|백준|11660|[구간합구하기5](solved/src/P010_BJ11660_구간합구하기5.java)|
-|백준|3040|[백설공주와 일곱난쟁이](solved/src/P031_BJ3040_백설공주와일곱난쟁이.java)|
+|1|백준|[구간합구하기4](solved/src/P009_BJ11659_구간합구하기4.java)|
+|2|백준|[구간합구하기5](solved/src/P010_BJ11660_구간합구하기5.java)|
+|3|백준|[백설공주와 일곱난쟁이](solved/src/P031_BJ3040_백설공주와일곱난쟁이.java)|
 
 ## 구현
-|문제 출처|문제 번호|제목|
+|번호|문제 출처|제목|
 |---|---|---|
-|SWEA|1210|[Ladder1](solved/src/P005_SWEA1210_Ladder1.java)|
-|SWEA|1954|[달팽이숫자](solved/src/P007_SWEA1954_달팽이숫자.java)|
-|SWEA|1873|[상호의배틀필드](solved/src/P008_SWEA1873_상호의배틀필드.java)|
-|백준|16926|[배열돌리기1](solved/src/P025_BJ16926_배열돌리기1_시간초과.java)|
-|백준|16935|[배열돌리기3](solved/src/P026_BJ16935_배열돌리기3.java)|
-|SWEA|4013|[특이한자석](solved/src/P063_SWEA_4013_특이한자석.java)|
+|1|SWEA|[Ladder1](solved/src/P005_SWEA1210_Ladder1.java)|
+|2|SWEA|[달팽이숫자](solved/src/P007_SWEA1954_달팽이숫자.java)|
+|3|SWEA|[상호의배틀필드](solved/src/P008_SWEA1873_상호의배틀필드.java)|
+|4|백준|[배열돌리기1](solved/src/P025_BJ16926_배열돌리기1_시간초과.java)|
+|5|백준|[배열돌리기3](solved/src/P026_BJ16935_배열돌리기3.java)|
+|6|SWEA|[특이한자석](solved/src/P063_SWEA_4013_특이한자석.java)|
 
 ## 완전탐색 
 |문제 출처|문제 번호|제목|
@@ -99,6 +99,7 @@
 |문제 출처|문제 번호|제목|
 |---|---|---|
 |프로그래머스| |[타겟넘버](solved/src/A001_PRG_타겟넘버.java)|
+|프로그래머스| |[피로도](solved/src/A008_PRG_피로도.java)|
 |백준|17478|[재귀함수가 뭔가요](solved/src/P002_BJ17478_재귀함수가뭔가요.java)|
 |백준|2023|[신기한 소수](solved/src/P016_BJ2023_신기한소수.java)|
 |SWEA|1861|[정사각형방](solved/src/P023_SWEA1861_정사각형방.java)|
